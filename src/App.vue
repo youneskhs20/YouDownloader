@@ -1,0 +1,25 @@
+<template>
+  <div class="container">
+    <TheVideoDownloadPage />
+  </div>
+</template>
+
+<script setup>
+import TheVideoDownloadPage from "./components/TheVideoDownloadPage.vue";
+</script>
+
+<style>
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,
+    Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  background-image: linear-gradient(to top, #accbee 0%, #e7f0fd 100%);
+  background-size: cover;
+  min-height: 100vh;
+}
+</style>
