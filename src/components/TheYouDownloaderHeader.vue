@@ -4,7 +4,7 @@
       <img src="../assets/logo.png" class="w-20rem" alt="logo" />
     </div>
 
-    <a href="https://gitlab.com/yuneskhs20">
+    <a href="https://github.com/youneskhs20/YouDownloader">
       <Button icon="bi bi-github" severity="secondary" label="GitHub" />
     </a>
   </nav>
